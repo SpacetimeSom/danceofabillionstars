@@ -10,7 +10,7 @@ body {
 }
 
 p {
-  width: 50%;
+  width: 70%;
   margin: 1em auto; /* center the paragraph */
   text-align: justify; /* optional: makes text tidy */
   /*width:80%;

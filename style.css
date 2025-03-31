@@ -11,8 +11,11 @@ body {
 
 p {
   width: 50%;
-  margin: 1em auto; /* center the paragraph */
-  text-align: justify; /* optional: makes text tidy */
+  /*margin: 1em auto; /* center the paragraph */
+  /*text-align: justify; /* optional: makes text tidy */
+  /*width:80%;*/
+  text-align: center;
+  margin: auto;
 }
 
 a {

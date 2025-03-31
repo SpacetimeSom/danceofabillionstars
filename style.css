@@ -1,0 +1,25 @@
+body {
+  max-width: 700px;
+  margin: 0 auto;
+  font-family: serif;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #000;
+  background-color: #fff;
+  padding: 40px;
+}
+
+p {
+  width: 50%;
+  margin: 1em auto; /* center the paragraph */
+  text-align: justify; /* optional: makes text tidy */
+}
+
+a {
+  color: #0000ee;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
